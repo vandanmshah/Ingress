@@ -6,4 +6,4 @@ This project contains mainly four softwares.
 3)Admin panel. This software is helpful for admin. He/She can add/edit/delete the users.
 4)Enable/Disable registry. This software again usefull for admin to setup client side software in startup
 
-  For full working infformationa and to see how its work please see proect report.
+  For full working information and to see how its work please see proect report.
